@@ -91,19 +91,3 @@ I am driven by the curiosity to understand how things work and by the challenge 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-<p>
-    <img
-        align="left"
-        alt="JavaScript"
-        title="JavaScript"
-        height="150"
-        style="padding-right: 10px;"
-        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNoYzh1d3FlNzVwYzNkaTBseWMwcTBicWZyajRtNzlqeHlkbWdvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"
-    />
-</p>
