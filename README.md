@@ -6,7 +6,7 @@ Hi, I'm Isaque. I am 24 years old and a student of Systems Analysis and Developm
 I am driven by the curiosity to understand how things work and by the challenge of transforming them into something better, using the JavaScript ecosystem to create innovative and scalable solutions.
 ##
 
-### 🤖 Languages and Tools
+### 🤖 Tech & Tools
 
 <img
     align="left"
