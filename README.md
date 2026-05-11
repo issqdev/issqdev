@@ -1,9 +1,9 @@
 # Isaque Oliveira
 **`Software Developer`**
 
-Hi, I'm Isaque. I am 24 years old and a student of Systems Analysis and Development (5th semester). Currently, I work as a Software Developer Intern at Banco do Brasil, contributing to the development and maintenance of internal systems in the AI ​​and Analytics unit (UAN).
+Olá, meu nome é Isaque. Tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre). Atualmente, trabalho como estagiário de desenvolvimento de software no Banco do Brasil, contribuindo para o desenvolvimento e manutenção de sistemas internos na unidade de IA e Analytics (UAN).
 
-I am driven by the curiosity to understand how things work and by the challenge of transforming them into something better, using the JavaScript ecosystem to create innovative and scalable solutions.
+Sou movido pela curiosidade de entender como as coisas funcionam e pelo desafio de transformá-las em algo melhor, utilizando o ecossistema JavaScript para criar soluções inovadoras e escaláveis.
 ##
 
 ### 🤖 Tech & Tools
