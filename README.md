@@ -34,6 +34,14 @@ Sou movido pela curiosidade de entender como as coisas funcionam e pelo desafio 
 />
 <img
     align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+/>
+<img
+    align="left"
     alt="HTML"
     title="HTML"
     width="30px"
